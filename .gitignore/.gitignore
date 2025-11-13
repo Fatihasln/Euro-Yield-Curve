@@ -1,0 +1,8 @@
+euro-yield-forecasting/
+├── data/
+│   └── raw/
+├── src/
+├── results/
+│   ├── figures/
+│   └── tables/
+└── docs/
